@@ -23,3 +23,5 @@ We plan the project activities according to the following timeline:
 **March 2025**: DHReSCU will organize retrospective meetings with projects and consultants to reflect on experiences and outcome. A survey will be designed and sent out to all participants to collect further feedback.
 
 **April - May 2025**: Analysis of survey results and retrospective feedback and planning of further DHReSCU activities. 
+
+This project is being supported by the National Endowment for the Humanities (HC-303355-24).
