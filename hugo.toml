@@ -14,6 +14,13 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+[outputs]
+  home = ['html', 'rss']
+  page = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html', 'rss']
+  term = ['html', 'rss']
+  
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "DH Research Software Consulting Unit"
@@ -51,7 +58,7 @@ pygmentsCodefencesGuessSyntax = true
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "DHReSCU"
   website = "dhrescunit.github.io"
-  email = "jdamerow@asu.edu"
+  email = "dhrescu-contact@googlegroups.com."
   #facebook = "username"
   github = "dhrescunit"
   #gitlab = "username"
