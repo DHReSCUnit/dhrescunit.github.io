@@ -1,7 +1,7 @@
 +++
 title = 'DHReSCU Receives National Endowment for the Humanities Grant to Support Research Software Projects'
 date = 2024-10-07
-draft = true
+draft = false
 +++
 
 We are honored to announce that we have been awarded a $30,000 Chair’s Award from the National Endowment for the Humanities. This grant will create a pilot for a Digital Humanities Research Software Consulting Unit (DHReSCU). DhReSCU’s mission will be to aid early-stage digital humanities research software projects in developing a technical implementation plan.
@@ -12,7 +12,7 @@ Many DH researchers who plan to develop research software do not otherwise have 
 
 To help solve these issues, the DHReSCU project aims to connect projects planning to develop DH research software in their planning and design stage with experienced DH Research Software Engineers to create a technical implementation plan.
 
-The grant provided by NEH will help the DHReSCU pilot program determine the extent and needs for a consulting unit in DH research software. The resulting feedback and project outcomes of DHReSCU will shape its future oper.
+The grant provided by NEH will help the DHReSCU pilot program determine the extent and needs for a consulting unit in DH research software. The resulting feedback and project outcomes of DHReSCU will shape its future operations.
 
 DHReSCU is a collaboration of members of DHTech, a Special Interest Group of the Alliance of Digital Humanities Organizations (ADHO) that provides a community for individuals doing technical work in the digital humanities.
 
