@@ -3,5 +3,3 @@
 Research software consists of software, code, and tools that allow researchers to generate, analyze, and present data in order to produce research results. Research software engineers (RSEs) are the people who specialize in developing research software. Arizona State University in collaboration with colleagues from Princeton University and Harvard University is exploring the development of a Digital Humanities Research Software Consulting Unit (DHReSCU). This virtual unit will provide digital humanities researchers with the opportunity to consult experienced DH RSEs during the project planning and design phase to create a software development plan. DH software development plans will focus on scoping feasible budgets and development goals while also considering sustainability and maintainability, in order to increase the durability of the software and potential reuse.
 
 Please send any questions or requests to be informed about updates to dhrescu-contact@googlegroups.com.
-
-"Any views, findings, conclusions, or recommendations expressed in this website do not necessarily represent those of the National Endowment for the Humanities."
