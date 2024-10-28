@@ -40,7 +40,7 @@ pygmentsCodefencesGuessSyntax = true
 #  cusdisID = "XXX" # Get your App id from cusdis.com
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-#  disclaimerText = "Any views, findings, conclusions, or recommendations expressed in this website do not necessarily represent those of the National Endowment for the Humanities."
+  disclaimerText = "Any views, findings, conclusions, or recommendations expressed in this website do not necessarily represent those of the National Endowment for the Humanities."
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"

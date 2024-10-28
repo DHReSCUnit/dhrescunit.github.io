@@ -8,7 +8,7 @@
 <div class="container">
 {{ if .Site.Params.disclaimerText }}
 <div class="row">
-  <div class="disclaimer">
+  <div class="disclaimer", style="background-color: #444444; border-color: #eee;">
     <b>Disclaimer:</b> {{ .Site.Params.disclaimerText }}
   </div>
 </div>
@@ -20,9 +20,6 @@
   {{$resized := .Resize "300x"}}
     <img src="{{ $resized.RelPermalink }}" width="{{$resized.Width }}" height="{{ $resized.Height }}">
   {{ end }}
-  </div>
-  <div style="color: rgb(148,148,148); position: absolute; right: 50px; width:30vh; font-size: 1.5rem;">
-    Any views, findings, conclusions, or recommendations expressed in this website do not necessarily represent those of the National Endowment for the Humanities.
   </div>
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
