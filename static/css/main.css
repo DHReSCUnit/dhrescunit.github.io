@@ -387,6 +387,9 @@ body {
     border-left-width: 10px;
     border-right-width: 10px;
     border-radius: 5px 3px 3px 5px;
+    background-color: inherit;
+    border-left-color: inherit;
+    border-right-color: inherit;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-align: center;
   }
