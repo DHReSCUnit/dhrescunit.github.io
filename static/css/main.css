@@ -387,10 +387,6 @@ body {
     border-left-width: 10px;
     border-right-width: 10px;
     border-radius: 5px 3px 3px 5px;
-    background-color: #fdf5d4;
-    border-left-color: #f1c40f;
-    border-right-color: #f1c40f;
-    color: #404040;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-align: center;
   }
