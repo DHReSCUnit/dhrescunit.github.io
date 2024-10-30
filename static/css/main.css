@@ -387,9 +387,9 @@ body {
     border-left-width: 10px;
     border-right-width: 10px;
     border-radius: 5px 3px 3px 5px;
-    background-color: inherit;
-    border-left-color: inherit;
-    border-right-color: inherit;
+    background-color: #fdf5d4;
+    border-left-color: #f1c40f;
+    border-right-color: #f1c40f;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-align: center;
   }
@@ -955,6 +955,9 @@ body {
     }
     pre.chroma .ow {
       color: #CC0;
+    }
+    footer div.disclaimer{
+        color: #404040;
     }
   }
   
