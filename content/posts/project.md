@@ -1,5 +1,5 @@
 +++
-title = 'Submit Your Project to DHReSCU by December 31st!'
+title = 'Submit Your Project to DHReSCU by December 31st! [Deadline extended!]'
 date = 2024-10-28
 draft = false
 +++
