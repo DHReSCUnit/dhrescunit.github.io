@@ -4,7 +4,7 @@ date = 2025-01-29
 draft = false
 +++
 
-DHReSCU is looking for a consultant for the DH project “Autosizer.” Below is a list of requirements specific to this project that we are looking for in a potential DH RSE consultant. The estimated total time commitment for this project is around 25 hours spread out over several months. If you think you fit these requirements, please fill out our consultant application and send us your resume at dhrescu-contact@googlegroups.com
+DHReSCU is looking for a consultant for the DH project “Autosizer.” Below is a list of requirements specific to this project that we are looking for in a potential DH RSE consultant. The estimated total time commitment for this project is around 25 hours spread out over several months. If you think you fit these requirements, please fill out our [consultant application](https://docs.google.com/forms/d/e/1FAIpQLSfHRFrmFT0qJvtdSXIJX_90U-mZNTopStYe9myq7ypK0AKAtg/viewform) and send us your resume at dhrescu-contact@googlegroups.com
 
 Qualifications:
 
