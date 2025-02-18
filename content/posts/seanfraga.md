@@ -4,7 +4,9 @@ date = 2025-01-29
 draft = false
 +++
 
-DHReSCU is looking for a consultant for the DH project “Autosizer.” Below is a list of requirements specific to this project that we are looking for in a potential DH RSE consultant. The estimated total time commitment for this project is around 25 hours spread out over several months. If you think you fit these requirements, please fill out our [consultant application](https://docs.google.com/forms/d/e/1FAIpQLSfHRFrmFT0qJvtdSXIJX_90U-mZNTopStYe9myq7ypK0AKAtg/viewform) and send us your resume at dhrescu-contact@googlegroups.com
+DHReSCU is looking for a consultant for the DH project “Autosizer,” a project researching methods for using artificial intelligence to generate computer-readable physical dimensions from existing item images and catalog metadata. Uses multi-modal large language models, machine learning, natural language processing, and computer vision. Specifically, aims to generate numeric dimensions for height and width from item images and metadata. 
+
+Below is a list of requirements specific to this project that we are looking for in a potential DH RSE consultant. The estimated total time commitment for this project is around 25 hours spread out over several months. If you think you fit these requirements, please fill out our [consultant application](https://docs.google.com/forms/d/e/1FAIpQLSfHRFrmFT0qJvtdSXIJX_90U-mZNTopStYe9myq7ypK0AKAtg/viewform) and send us your resume at dhrescu-contact@googlegroups.com
 
 Qualifications:
 
