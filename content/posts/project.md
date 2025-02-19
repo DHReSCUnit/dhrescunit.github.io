@@ -4,7 +4,7 @@ date = 2024-10-28
 draft = false
 +++
 
-**Notice. We have begun working with Projects but we are still accepting Applications while funding lasts. If you have a Digital Humanities Research Project and are looking for consultation, submit your project [using this application form](https://forms.gle/Hxuj7bXe7nsGxNg4A).**
+**Notice: We have begun working with projects but we are still accepting applications while funding lasts. If you have a Digital Humanities research project and are looking for consultation, submit your project [using this application form](https://forms.gle/Hxuj7bXe7nsGxNg4A).**
 
 DHReSCU is a pilot program meant to aid early-stage digital humanities research software projects in developing a technical implementation plan. We hope to connect experienced research software engineers with digital humanities projects. The resulting technical implementation plan is meant to reduce mistakes made and improve project outcomes.
 
