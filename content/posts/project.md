@@ -2,6 +2,7 @@
 title = 'Submit Your Project to DHReSCU! Still Accepting Applications!'
 date = 2024-10-28
 draft = false
+tags = ['announcements']
 +++
 
 **Notice: We have begun working with projects but we are still accepting applications while funding lasts. If you have a Digital Humanities research project and are looking for consultation, submit your project [using this application form](https://forms.gle/Hxuj7bXe7nsGxNg4A).**

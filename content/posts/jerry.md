@@ -2,6 +2,7 @@
 title = 'Research Software Engineering Consultant For Digital Humanities Project: AsteXT'
 date = 2025-03-21
 draft = false
+tags = ["projects"]
 +++
 
 DHReSCU is looking for a consultant for the DH project “AsteXT,” a project designed around building a database for Asian American short stories published between 1974 and 2024. This project aims to develop a text analysis NLP toolkit designed specifically for short-form fictional writing and to find quantitative linguistic trends in Asian American short stories.

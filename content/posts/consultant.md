@@ -2,6 +2,7 @@
 title = 'Apply to be a DHReSCU Consultant!'
 date = 2024-10-28
 draft = false
+tags = ['announcements']
 +++
 
 **We are excited to open consultant applications for DHReSCU. If you are a Research Software Engineer and would like to consult on projects in need, apply to be a consultant [using this application form](https://forms.gle/xzL6D8t53EmynCYW7).**
