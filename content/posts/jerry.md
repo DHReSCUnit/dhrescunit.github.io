@@ -33,5 +33,5 @@ Expectations:
 - Based on the conversations with the project team the consultant is matched with, the consultant will write up a technical implementation plan. The technical implementation plan should be 5 to 10 pages long (depending on the project) and address the main implementation questions and concerns the project team communicates to the consultant.
 - The consultant should be prepared to review the project's technical architecture, assess specific technical implementation choices (tools, languages, methods), suggest alternative approaches, offer cautionary advice, and help establish realistic development timelines.
 Compensation:
-A stipend of $2300 will be paid upon delivering the technical implementation plan. 
+A stipend of $2200 will be paid upon delivering the technical implementation plan. 
 
