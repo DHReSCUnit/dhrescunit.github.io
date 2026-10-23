@@ -91,7 +91,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "Blog"
     url = ""
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "About"
@@ -101,7 +101,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "Sign Up Form"
     url = "https://forms.gle/jff5yk4kyfVACezC8"
-    weight = 3
+    weight = 1
 
 #[[menu.main]]
 #    identifier = "samples"
