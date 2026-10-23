@@ -98,6 +98,11 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/about/"
     weight = 3
 
+[[menu.main]]
+    name = "Sign Up Form"
+    url = "https://forms.gle/jff5yk4kyfVACezC8"
+    weight = 3
+
 #[[menu.main]]
 #    identifier = "samples"
 #    name = "Samples"
