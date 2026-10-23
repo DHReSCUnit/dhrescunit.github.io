@@ -1,6 +1,6 @@
 +++
 title = 'DHReSCU is Back!'
-date = 2026-10-28
+date = 2026-10-23
 draft = false
 tags = ['announcements']
 +++
